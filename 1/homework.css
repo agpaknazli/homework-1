@@ -1,0 +1,15 @@
+.container{
+border: 6px outset rgba(242, 240, 240, 0.953);
+
+}
+
+
+
+.btn input{
+    
+    margin-left: 20%;
+}
+
+input{
+    accent-color: rgb(30, 30, 185);
+}
